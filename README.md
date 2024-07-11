@@ -2,7 +2,7 @@
   <img height="150" src="https://github.com/Damaris-Muralles/Damaris-Muralles/bannerinicial.png"  alt="banner"  />
 </div>
 
-# ¡Hola! Soy Damaris Muralles 👋
+# ¡Hola! Soy Damaris👋
 
 Actualmente estoy cursando el octavo semestre de Ingeniería en Ciencias y Sistemas. Durante mi carrera, he adquirido experiencia práctica en diversos lenguajes de programación y tecnologías, lo que me ha permitido fortalecer mis habilidades técnicas y mi capacidad para colaborar en equipos.
 <!--
