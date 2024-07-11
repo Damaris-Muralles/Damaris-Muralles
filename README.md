@@ -5,9 +5,9 @@
 
 Actualmente estoy cursando el octavo semestre de Ingeniería en Ciencias y Sistemas. Durante mi carrera, he adquirido experiencia práctica en diversos lenguajes de programación y tecnologías, lo que me ha permitido fortalecer mis habilidades técnicas y mi capacidad para colaborar en equipos.
 <!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=damaris-muralles&label=Profile%20views&color=0e75b6&style=flat" alt="damaris-muralles" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=damaris-muralles&label=Profile%20views&color=0e75b6&style=flat" alt="damaris-muralles" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damaris-muralles&theme=algolia&locale=es" alt="damaris-muralles" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damaris-muralles&theme=algolia&locale=es" alt="damaris-muralles" /></a> </p>-->
 
 ## Contacto:
 
