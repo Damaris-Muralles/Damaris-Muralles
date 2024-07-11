@@ -4,8 +4,8 @@
 # ¡Hola! Soy Damaris Muralles 👋
 
 Actualmente estoy cursando el octavo semestre de Ingeniería en Ciencias y Sistemas. Durante mi carrera, he adquirido experiencia práctica en diversos lenguajes de programación y tecnologías, lo que me ha permitido fortalecer mis habilidades técnicas y mi capacidad para colaborar en equipos.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=damaris-muralles&label=Profile%20views&color=0e75b6&style=flat" alt="damaris-muralles" /> </p>
+<!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=damaris-muralles&label=Profile%20views&color=0e75b6&style=flat" alt="damaris-muralles" /> </p>-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damaris-muralles" alt="damaris-muralles" /></a> </p>
 
@@ -16,7 +16,7 @@ Actualmente estoy cursando el octavo semestre de Ingeniería en Ciencias y Siste
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:damarisyulizzamuralles@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge"  height="25" alt="Gmail" />
   </a>
   <!--<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />-->
