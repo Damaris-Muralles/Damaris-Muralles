@@ -7,7 +7,7 @@ Actualmente estoy cursando el octavo semestre de Ingeniería en Ciencias y Siste
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damaris-muralles&label=Profile%20views&color=0e75b6&style=flat" alt="damaris-muralles" /> </p>-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damaris-muralles&theme=tokyonight&locale=es" alt="damaris-muralles" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damaris-muralles&theme=algolia&locale=es" alt="damaris-muralles" /></a> </p>
 
 ## Contacto:
 
@@ -85,5 +85,5 @@ Descripción breve del proyecto. Tecnología principal usada.
 ## Contribuciones
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Damaris-Muralles&theme=tokyonight&locale=es" alt="Contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Damaris-Muralles&theme=algolia&locale=es" alt="Contribuciones" />
 </div>
