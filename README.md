@@ -7,7 +7,7 @@ Actualmente estoy cursando el octavo semestre de Ingeniería en Ciencias y Siste
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damaris-muralles&label=Profile%20views&color=0e75b6&style=flat" alt="damaris-muralles" /> </p>-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damaris-muralles" alt="damaris-muralles" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damaris-muralles&theme=tokyonight&locale=es" alt="damaris-muralles" /></a> </p>
 
 ## Contacto:
 
@@ -78,8 +78,8 @@ Descripción breve del proyecto. Tecnología principal usada.
 ## Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damaris-Muralles&layout=compact&theme=tokyonight&locale=es" alt="Lenguajes más usados" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Damaris-Muralles&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damaris-Muralles&layout=compact&theme=algolia&locale=es" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Damaris-Muralles&show_icons=true&theme=algolia&locale=es" alt="Estadísticas de GitHub" />
 </div>
 
 ## Contribuciones
