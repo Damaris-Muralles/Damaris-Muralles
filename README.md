@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/Damaris-Muralles/Damaris-Muralles/bannerinicial.png"  alt="banner"  />
+  <img height="150" src="https://github.com/Damaris-Muralles/Damaris-Muralles/blob/main/bannerinicial.png"  alt="banner"  />
 </div>
 
 # ¡Hola! Soy Damaris👋
