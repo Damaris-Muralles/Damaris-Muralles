@@ -88,3 +88,7 @@ Descripción breve del proyecto. Tecnología principal usada.
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Damaris-Muralles&theme=algolia&locale=es" alt="Contribuciones" />
 </div>
+
+## Trofeos GitHub
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damaris-muralles&theme=algolia&locale=es" alt="damaris-muralles" /></a> </p>
