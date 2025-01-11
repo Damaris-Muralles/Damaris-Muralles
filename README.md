@@ -4,7 +4,7 @@
 
 # ¡Hola! Soy Damaris👋
 
-Actualmente estoy cursando el octavo semestre de Ingeniería en Ciencias y Sistemas. Durante mi carrera, he adquirido experiencia práctica en diversos lenguajes de programación y tecnologías, lo que me ha permitido fortalecer mis habilidades técnicas y mi capacidad para colaborar en equipos.
+Actualmente estoy cursando el noveno semestre de Ingeniería en Ciencias y Sistemas. Durante mi carrera, he adquirido experiencia práctica en diversos lenguajes de programación y tecnologías, lo que me ha permitido fortalecer mis habilidades técnicas y mi capacidad para colaborar en equipos.
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damaris-muralles&label=Profile%20views&color=0e75b6&style=flat" alt="damaris-muralles" /> </p>
 
@@ -29,7 +29,11 @@ Actualmente estoy cursando el octavo semestre de Ingeniería en Ciencias y Siste
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+![MUI](https://img.shields.io/badge/-Material--UI-007FFF?logo=mui&logoColor=white&style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
+
+
 <!--
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)-->
 
@@ -38,7 +42,6 @@ Actualmente estoy cursando el octavo semestre de Ingeniería en Ciencias y Siste
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)-->
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
 
 ### Bases de Datos:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
@@ -58,6 +61,7 @@ Actualmente estoy cursando el octavo semestre de Ingeniería en Ciencias y Siste
 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
 <!--
 ![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?logo=d3.js&logoColor=white&style=flat)
 ![Nginx](https://img.shields.io/badge/-Nginx-269539?logo=nginx&logoColor=white&style=flat)
